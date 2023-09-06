@@ -127,7 +127,7 @@ integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeV
 <div class="row">
 <div class="col l6 s12">
 <h5 class="white-text">Retail Analysis App</h5>
-<h6 class="grey-text text-lighten-4">This Streamlit project.</h6>
+<h6 class="grey-text text-lighten-4">This is a Streamlit project.</h6>
 <p class="grey-text text-lighten-4">Deja vu stores limited</p>
 </div>
 <div class="col l3 s12">
