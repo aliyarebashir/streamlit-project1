@@ -127,22 +127,22 @@ integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeV
 <div class="row">
 <div class="col l6 s12">
 <h5 class="white-text">Retail Analysis App</h5>
-<h6 class="grey-text text-lighten-4">This is Africa Data School Streamlit Class practical.</h6>
-<p class="grey-text text-lighten-4">April 2023 Cohort</p>
+<h6 class="grey-text text-lighten-4">This Streamlit project.</h6>
+<p class="grey-text text-lighten-4">Deja vu stores limited</p>
 </div>
 <div class="col l3 s12">
 <h5 class="white-text">Connect With Us</h5>
 <ul>
-<a href="https://www.facebook.com/AfricaDataSchool/" target="_blank" class="white-text">
+<a href="#" target="_blank" class="white-text">
 <i class="fab fa-facebook fa-4x"></i>
 </a>
-<a href="https://www.linkedin.com/company/africa-data-school" target="_blank" class="white-text">
+<a href="#" target="_blank" class="white-text">
 <i class="fab fa-linkedin fa-4x"></i>
 </a>
-<a href="https://www.youtube.com/watch?v=ZRdlQwNTJ7o" target="_blank" class="white-text">
+<a href="#" target="_blank" class="white-text">
 <i class="fab fa-youtube-square fa-4x"></i>
 </a>
-<a href="https://github.com/Africa-Data-School" target="_blank" class="white-text">
+<a href="#" target="_blank" class="white-text">
 <i class="fab fa-github-square fa-4x"></i>
 </a>
 </ul>
@@ -151,8 +151,8 @@ integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeV
 </div>
 <div class="footer-copyright">
 <div class="container">
-Made by <a class="white-text text-lighten-3" href="https://africadataschool.com/">Regan </a><br/>
-<a class="white-text text-lighten-3" href="https://africadataschool.com/"></a>
+Made by <a class="white-text text-lighten-3" href="#">Uwes </a><br/>
+<a class="white-text text-lighten-3" href="#"></a>
 </div>
 </div>
 </footer>
