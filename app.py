@@ -64,7 +64,6 @@ elif selection=="Bussiness snapshot":
         plt.xticks(color="green")
         plt.yticks(color="green")
         plt.legend(loc="upper left")
-        plt.show()
         st.pyplot(plt)
     col3,col4 =st.columns(2)
     with col4:
